@@ -112,16 +112,26 @@ Hello! I'm **Kerem Işık**, a passionate cybersecurity analyst. I work to detec
 
 <div align="center">
   <details>
-    <summary>🔐 <b>Matrix Animation</b></summary>
+    <summary>🔐 <b>Matrix Digital Rain</b></summary>
     <br>
-    <div style="font-family: 'Courier New', monospace; color: #00FF41; font-size: 12px; line-height: 1.2;">
-      <pre>
-01001000 01100001 01100011 01101011 01100101 01110010 00100000 01001001 01110011 01101001 01101011
-01001000 01100001 01100011 01101011 01100101 01110010 00100000 01001001 01110011 01101001 01101011
-01001000 01100001 01100011 01101011 01100101 01110010 00100000 01001001 01110011 01101001 01101011
-01001000 01100001 01100011 01101011 01100101 01110010 00100000 01001001 01110011 01101001 01101011
-01001000 01100001 01100011 01101011 01100101 01110010 00100000 01001001 01110011 01101001 01101011
-      </pre>
+    <div style="position: relative; height: 200px; overflow: hidden; background: #000; border-radius: 10px; border: 2px solid #00FF41;">
+      <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; font-family: 'Courier New', monospace; color: #00FF41; font-size: 14px; line-height: 1.2; animation: matrix-rain 8s linear infinite;">
+        <div style="position: absolute; top: -20px; left: 10%; animation-delay: 0s;">01001000 01100001 01100011 01101011</div>
+        <div style="position: absolute; top: -40px; left: 20%; animation-delay: 1s;">01100101 01110010 00100000 01001001</div>
+        <div style="position: absolute; top: -60px; left: 30%; animation-delay: 2s;">01110011 01101001 01101011 00100000</div>
+        <div style="position: absolute; top: -80px; left: 40%; animation-delay: 3s;">01001000 01100001 01100011 01101011</div>
+        <div style="position: absolute; top: -100px; left: 50%; animation-delay: 4s;">01100101 01110010 00100000 01001001</div>
+        <div style="position: absolute; top: -120px; left: 60%; animation-delay: 5s;">01110011 01101001 01101011 00100000</div>
+        <div style="position: absolute; top: -140px; left: 70%; animation-delay: 6s;">01001000 01100001 01100011 01101011</div>
+        <div style="position: absolute; top: -160px; left: 80%; animation-delay: 7s;">01100101 01110010 00100000 01001001</div>
+        <div style="position: absolute; top: -180px; left: 90%; animation-delay: 8s;">01110011 01101001 01101011 00100000</div>
+      </div>
+      <style>
+        @keyframes matrix-rain {
+          0% { transform: translateY(0px); }
+          100% { transform: translateY(200px); }
+        }
+      </style>
     </div>
   </details>
 </div>
