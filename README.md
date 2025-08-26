@@ -9,8 +9,12 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 </div>
+<br>
 
----
+<div align="center">
+  <a href="https://www.linkedin.com/in/keremisik/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:keremisik1010@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</div>
 
 ## 🚀 **About Me**
 
@@ -26,23 +30,16 @@ Hello! I'm **Kerem Işık**, a passionate cybersecurity analyst. I work to detec
 
 ## 🛠️ **Technology Stack**
 
-### **Programming Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+### 💻 **Core Technologies**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,cs,javascript,react,php,docker,stackoverflow,linux,kali,arch&theme=dark" alt="Tech Stack Icons" />
+</div>
+
 
 ### **Databases**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-
-### **Frameworks & Libraries**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-000000?style=flat-square&logo=websocket&logoColor=white)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mondodb&theme=dark" alt="Tech Stack Icons" />
+</div>
 
 ---
 
@@ -76,62 +73,9 @@ Hello! I'm **Kerem Işık**, a passionate cybersecurity analyst. I work to detec
 
 ---
 
-## 📫 **Contact**
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/keremisik/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  
-  <a href="mailto:keremisik1010@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  
-  <a href="https://github.com/keremmisik">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
-
----
-
-## 🎯 **Current Projects**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keremmisik&layout=compact&theme=dark&bg_color=0d1117&text_color=00FF41&hide_border=true" alt="Top Languages" />
-</div>
-
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=keremmisik&style=flat-square&color=00FF41" alt="Profile Views" />
   
   <p><em>"Security is not just a technology, it's a way of life."</em></p>
-</div>
-
----
-
-<div align="center">
-  <details>
-    <summary>🔐 <b>Matrix Digital Rain</b></summary>
-    <br>
-    <div style="position: relative; height: 200px; overflow: hidden; background: #000; border-radius: 10px; border: 2px solid #00FF41;">
-      <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; font-family: 'Courier New', monospace; color: #00FF41; font-size: 14px; line-height: 1.2; animation: matrix-rain 8s linear infinite;">
-        <div style="position: absolute; top: -20px; left: 10%; animation-delay: 0s;">01001000 01100001 01100011 01101011</div>
-        <div style="position: absolute; top: -40px; left: 20%; animation-delay: 1s;">01100101 01110010 00100000 01001001</div>
-        <div style="position: absolute; top: -60px; left: 30%; animation-delay: 2s;">01110011 01101001 01101011 00100000</div>
-        <div style="position: absolute; top: -80px; left: 40%; animation-delay: 3s;">01001000 01100001 01100011 01101011</div>
-        <div style="position: absolute; top: -100px; left: 50%; animation-delay: 4s;">01100101 01110010 00100000 01001001</div>
-        <div style="position: absolute; top: -120px; left: 60%; animation-delay: 5s;">01110011 01101001 01101011 00100000</div>
-        <div style="position: absolute; top: -140px; left: 70%; animation-delay: 6s;">01001000 01100001 01100011 01101011</div>
-        <div style="position: absolute; top: -160px; left: 80%; animation-delay: 7s;">01100101 01110010 00100000 01001001</div>
-        <div style="position: absolute; top: -180px; left: 90%; animation-delay: 8s;">01110011 01101001 01101011 00100000</div>
-      </div>
-      <style>
-        @keyframes matrix-rain {
-          0% { transform: translateY(0px); }
-          100% { transform: translateY(200px); }
-        }
-      </style>
-    </div>
-  </details>
 </div>
