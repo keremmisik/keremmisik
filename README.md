@@ -32,7 +32,7 @@ Hello! I'm **Kerem Işık**, a passionate cybersecurity analyst. I work to detec
 
 ### 💻 **Core Technologies**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cs,javascript,react,php,docker,stackoverflow,linux,kali,arch&theme=dark" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=python,cs,javascript,react,php,stackoverflow,linux,kali&theme=dark" alt="Tech Stack Icons" />
 </div>
 
 
