@@ -23,8 +23,8 @@ Hello! I'm **Kerem Işık**, a passionate cybersecurity analyst. I work to detec
 ### 🔒 **Areas of Expertise**
 - **Penetration Testing** & **Security Assessments**
 - **Network Security** & **System Analysis**
-- **Web Application Security** & **API Security**
-- **Vulnerability Research** & **Malware Analysis**
+- **Web Application Security**
+- **Vulnerability Research**
 
 ---
 
