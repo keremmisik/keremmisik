@@ -65,13 +65,6 @@ Hello! I'm **Kerem Işık**, a passionate cybersecurity analyst. I work to detec
 
 ---
 
-## 🏆 **Certifications & Achievements**
-
-- **Cisco Certifications**
-- **Cybersecurity Expertise**
-- **Network Security Expertise**
-
----
 
 
 <div align="center">
