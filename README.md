@@ -48,9 +48,7 @@ Hello! I'm **Kerem Işık**, a passionate cybersecurity analyst. I work to detec
 <div align="center">
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
   <img src="https://img.shields.io/badge/Nmap-FF6C37?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
-  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
   <img src="https://img.shields.io/badge/Burp%20Suite-FF6C37?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/Wafw00f-00FF41?style=for-the-badge&logo=wafw00f&logoColor=black" alt="Wafw00f" />
 </div>
 
 ---
@@ -58,9 +56,9 @@ Hello! I'm **Kerem Işık**, a passionate cybersecurity analyst. I work to detec
 ## 📊 **GitHub Statistics**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keremmisik&show_icons=true&theme=dark&bg_color=0d1117&text_color=00FF41&icon_color=00FF41&title_color=00FF41&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=keremmisik&show_icons=true&theme=dark&bg_color=0d1117&text_color=00FF41&icon_color=00FF41&title_color=00FF41&hide_border=true" alt="GitHub Stats" /> 
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keremmisik&theme=dark&background=0d1117&ring=00FF41&fire=00FF41&currStreakNum=00FF41&currStreakLabel=00FF41&sideNums=00FF41&sideLabels=00FF41&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=keremmisik&theme=dark&background=0d1117&ring=00FF41&fire=00FF41&currStreakNum=00FF41&currStreakLabel=00FF41&sideNums=00FF41&sideLabels=00FF41&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
